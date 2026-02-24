@@ -69,7 +69,7 @@ Reconstruct 3D structure and estimate drone trajectory from monocular video.
 [![Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wushuchris/aai-521-group-7)
 
 
-### MIRA: Multi-Agent AI Research Assistant for Equity Analysis
+### 🤖 MIRA: Multi-Agent AI Research Assistant for Equity Analysis
 Designed a multi-agent LLM system to support equity research workflows.
 #### Objective
 Automate and enhance financial research by integrating multiple AI agents.
