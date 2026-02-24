@@ -3,7 +3,7 @@
 ## About Me 
 I'm a graduate student in Artificial Intelligence with a background in Cognitive Science, focused on building end-to-end machine learning systems grounded in strong statistical reasoning. 
 
-My work centers on:
+My work centers around:
 
 - Production ready ML systems
 - Deep learning & time-series forecasting
@@ -68,6 +68,22 @@ Reconstruct 3D structure and estimate drone trajectory from monocular video.
 
 [![Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wushuchris/aai-521-group-7)
 
+
+### MIRA: Multi-Agent AI Research Assistant for Equity Analysis
+Designed a multi-agent LLM system to support equity research workflows.
+#### Objective
+Automate and enhance financial research by integrating multiple AI agents.
+#### Approach 
+- Implemented four agents: Planner, Router, Research Analyst, and Evaluator
+- Integrated retrieval-augmented generation (RAG) with financial APIs (yfinance, Alpaca)
+- Developed NLP pipelines to summarize market news and analyze stock trends
+- Coordinated agents for multi-step decision-making
+#### Results
+- Streamlined equity research workflows and automated market data summarization
+- Improved speed and accuracy of financial insights
+
+Note: Repository is private and not publicly accessible.
+
 ### 📈 Financial Market Trend Prediction 
 Built an end-to-end time-series forecasting pipeline for financial market direction prediction.
 #### Highlights:
@@ -76,9 +92,9 @@ Built an end-to-end time-series forecasting pipeline for financial market direct
 - Implemented supervised models for directional classification
 - Benchmarked model performance using train/test validation
 #### Focus Areas:
-Time-series modeling • Feature engineering • Predictive analytics
+- Time-series modeling, Feature engineering, Predictive analytics
 
-Note: Personal project - repo not shared
+Note: Personal project - repository not shared
 
 ## 🛠 Languages & Technical Skills
 
