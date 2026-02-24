@@ -81,6 +81,8 @@ Time-series modeling • Feature engineering • Predictive analytics
 #### Tech Stack:
 Python • pandas • NumPy • scikit-learn • matplotlib
 
+Note: I have not linked this repository as it is a personal project to gain clarity on where to allocate my finances.
+
 ## 👩‍💻 Technical Skills
 ### Programing & Tools
 Python • Git • GitHub • Jupyter Notebook • Google Colab
