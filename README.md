@@ -1,7 +1,7 @@
 ## Hi, I'm Payal Patel!
 
 ## About Me 
-I'm a graduate student in Artificial Intelligence with a background in Cognitive Science, focused on building end-to-end machine learning systems grounded in strong statistical reasoning. 
+I recently completed my Master of Science in Applied Artificial Intelligence at the University of San Diego, with a background in Cognitive Science. I'm interested in  building end-to-end machine learning systems grounded in strong statistical reasoning and practical evaluation.
 
 My work centers around:
 
@@ -9,19 +9,34 @@ My work centers around:
 - Deep learning & time-series forecasting
 - MLOps pipelines & real-time inference
 - Model evaluation and performance benchmarking
-- Applied AI in energy systems, speech intelligence, and robotics
+- Applied AI in energy systems, speech intelligence, finance, and robotics
 
 I'm particularly interested in predictive modeling, decision-support systems, and scalable ML workflows.
 
 ## 🎓 Education
 Master of Science in Applied Artificial Intelligence - University of San Diego 
-- Anticipated Apr 2026
+- Completed April 2026
   
 Bachelor in Cognitive Science (BCogSc) - Carleton University
 - Concentrating in Biological Foundations of Cognition
 - Minor in Neuroscience and Mental Health 
 
 ## 🧠 Featured Projects
+### 🦠 Multi-Disease Outbreak Forecasting with Temporal Deep Learning
+Built a forecasting pipeline to predict short-term infectious disease incidence across Canadian provinces using historical weekly surveillance data. 
+#### Objective:
+Forecast 4-8 week disease trends and compare whether deep learning approaches outperform classical statistical baselines for public health forecasting.
+#### Approach: 
+- Built a province-disease time series forecasting workflow using Canadian notifiable disease surveillance data
+- Prepared chronological train, validation, and test splits for forecasting evaluation
+- Trained ARIMA as a local statistical baseline and LSTM as a global deep learning model
+- Compared model performance using RMSE and MAE across diseases and forecast horizons
+- Validated aggregated outputs against PHAC reference data to assess directional consistency
+#### Focus Areas:
+Time-series forecasting, deep learning, public health analytics, model comparison, applied machine learning
+
+[![Repo](https://img.shields.io/badge/View_Repo-GitHub-18171?style=for-the-badge&logo=github&logoColor=white)](https://github.com/payalpt/AAI-590-capstone-canadian-health)
+
 ### 🗣️ VoiceSync AI - Emotion Detection ML System 
 Designed and deployed a production ready emotion classification system using AWS SageMaker.
 #### Problem:
@@ -48,7 +63,7 @@ Detect irregular energy usage patterns and forecasting future consumption.
 #### Results
 - Achieved 99.84% predictive accuracy across 7-day forecasting trends
 - Identified anomalous energy consumption events for visualization in Tableau
-- 
+  
 [![Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mojodean/aai-530-final-project)
 
 ### 🗺️ SLAM-Lite: Visual Mapping & Path Estimation 
