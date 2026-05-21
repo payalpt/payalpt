@@ -1,17 +1,17 @@
 ## Hi, I'm Payal Patel!
 
 ## About Me 
-I recently completed my Master of Science in Applied Artificial Intelligence at the University of San Diego, with a background in Cognitive Science. I'm interested in  building end-to-end machine learning systems grounded in strong statistical reasoning and practical evaluation.
+I recently completed my Master of Science in Applied Artificial Intelligence at the University of San Diego, with a background in Cognitive Science. I focus on buidling end-to-end machine learning systems grounded in strong statistical reasoning, practical evaluation, and real-world applicability.
 
 My work centers around:
 
-- Production ready ML systems
-- Deep learning & time-series forecasting
-- MLOps pipelines & real-time inference
-- Model evaluation and performance benchmarking
-- Applied AI in energy systems, speech intelligence, finance, and robotics
+- Designing production-ready ML systems and scalable workflows
+- Developing deep learning models and time-series forecasting solutions
+- Building MLOps pipelines and enabling real-time inference
+- Conducting model evaluation and performance benchmarking
+- Applying AI across domains including energy systems, speech intelligence, finance, and robotics
 
-I'm particularly interested in predictive modeling, decision-support systems, and scalable ML workflows.
+I'm particularly interested in predictive modeling, decision-support systems, and deploying scalable ML workflows that move beyond experimentation into real-world impact.
 
 ## 🎓 Education
 Master of Science in Applied Artificial Intelligence - University of San Diego 
