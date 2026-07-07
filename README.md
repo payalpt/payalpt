@@ -1,7 +1,7 @@
 ## Hi, I'm Payal Patel!
 
 ## About Me 
-I recently completed my Master of Science in Applied Artificial Intelligence at the University of San Diego, with a background in Cognitive Science. I focus on buidling end-to-end machine learning systems grounded in strong statistical reasoning, practical evaluation, and real-world applicability.
+I recently completed my Master of Science in Applied Artificial Intelligence at the University of San Diego, with a background in Cognitive Science. I focus on building end-to-end machine learning systems grounded in strong statistical reasoning, practical evaluation, and real-world applicability.
 
 My work centers around:
 
